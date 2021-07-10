@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rascalstudio</string>
+    <string name="speaker_search">Speaker Search</string>
+    <string name="subject_search">Subject Search</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="_00_17">00:17</string>
+    <string name="_47_17">47:17</string>
+    <string name="now_playing1">NOW PLAYING .....</string>
+    <string name="the_farce_side_of_life">The Farce Side of Life</string>
+    <string name="bill_lewis_chris_brady_claude_hamilton_and_oriin_woodward">Bill Lewis, Chris Brady, Claude Hamilton and Oriin Woodward</string>
+</resources>
